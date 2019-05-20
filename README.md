@@ -1,7 +1,15 @@
 # Mini-Cryptographic-library
 This library contains 4 algorithms.
 
-INSTALLATION :
+[1] MD5
+[2] SHA-256
+[3] RSA
+[4] Morse code
+
+Implementation of all algorithms is in C.
+
+
+# INSTALLATION :
 
 Ubuntu :
 
@@ -11,6 +19,6 @@ OR
 
 $sh install.sh
 
-Execution :
+# Execution :
 
 $./cryptlib
