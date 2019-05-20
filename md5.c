@@ -153,9 +153,7 @@ int main( int argc, char *argv[] )
     	printf("        -h, --help\tDisplay this help and exit\n");;
     }
     else{
-	    //printf("\n\t MD5 ENCRYPTION \n\n");
-	   
-	    //printf("Input String to be Encrypted using MD5 : %s",msg);
+	    
 	    unsigned *d = md5(msg, strlen(msg));
 	    MD5union u;
 	    
@@ -168,7 +166,7 @@ int main( int argc, char *argv[] )
 	    }
 		printf("\033[0m");
 	    printf("\n\n");
-	    //printf("MD5 Encyption Successfully Completed!!!\n\n");
+	
 	}
     return 0;
 }
