@@ -42,7 +42,10 @@ Choose any algorithm :
 [3] SHA-256 Hashing
 [4] RSA algorithm
 
->>>_
+>>>2
+
+[*] Enter string to be encrypted : crypto
+[+] Encrypted text : 5ae9b7f211e23aac3df5f2b8f3b8eada
 ```
 ## Author
 * **Goutham** - [G0uth4m](https://github.com/G0uth4m)
