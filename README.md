@@ -18,15 +18,15 @@ Implementation of all algorithms is in C.
 Ubuntu :
 
 ```
-$chmod +x install.sh && ./install.sh
+$ chmod +x install.sh && ./install.sh
 ```
 OR
 ```
-$sh install.sh
+$ sh install.sh
 ```
 ## Execution :
 ```
-$./cryptlib
+$ ./cryptlib
 ```
 ## Author
 * **Goutham** - [G0uth4m](https://github.com/G0uth4m)
