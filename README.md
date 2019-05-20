@@ -28,5 +28,5 @@ $sh install.sh
 ```
 $./cryptlib
 ```
-##Author
+## Author
 * **Goutham** - [G0uth4m](https://github.com/G0uth4m)
